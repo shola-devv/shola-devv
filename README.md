@@ -1,4 +1,4 @@
-## Hi there i'm Emmanuel👋
+## Hi there, i'm Emmanuel👋
 
 - 🤖 Javascript/typescript (MERN)
 - 👽 smart contracts development(solidty)
