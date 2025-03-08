@@ -2,7 +2,7 @@
 
 - 🤖 Javascript/typescript (MERN)
 - 👽 smart contracts development(solidty)
-- 📫 How to reach me: shola-emmanuel.vercel.app
+- 📫 How to reach me:https://shola-emmanuel.vercel.app
 - ⚡ Fun fact: 42 
 <!--
 **shola-devv/shola-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
