@@ -1,8 +1,8 @@
 ## Hi there, i'm Emmanuel👋
 
+- 🧩 Web3 development
 - 🤖 Javascript/typescript (MERN)
 - 👽 smart contracts development(solidty)
-- 🧩 Web3 development
 - ⚡ Fun fact: 42
 - 📫 How to reach me: https://shola-emmanuel.vercel.app
  
