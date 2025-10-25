@@ -4,7 +4,7 @@
 - 🤖 Javascript/typescript (MERN)
 - 👽 smart contracts development(solidty)
 - ⚡ Fun fact: 42
-- 📫 How to reach me: sholaemmanuel.dev
+- 📫 How to reach me: www.sholaemmanuel.dev
  
 <!--
 **shola-devv/shola-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
