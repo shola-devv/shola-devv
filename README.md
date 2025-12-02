@@ -1,7 +1,7 @@
 ## Hi there, i'm Emmanuel👋
 
 - 🧩 Web3 development
-- 🤖 Javascript/typescript (MERN)
+- 🤖 Javascript/typescript (MERN, viem, ethersjs)
 - 👽 smart contracts development(solidty)
 - ⚡ Fun fact: 42
 - 📫 How to reach me: www.sholaemmanuel.dev
